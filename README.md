@@ -24,6 +24,8 @@ Bonus: decimal point on NumPad (by default it offers comma on Ukrainian layout).
 
 ## Installation
 
-Download and run [MSI installer for x64](https://bit.ly/kbd-Ukr-Extended-x64).
-It is recommended to pass it through Windows Defender
+Download [the distribution package](https://bit.ly/kbd-Ukr-Win-Extended),
+unpack and run `setup.exe`.
+
+It is recommended to pass the package through Windows Defender
 or 3p antivirus software (avoid Kaspersky products).
