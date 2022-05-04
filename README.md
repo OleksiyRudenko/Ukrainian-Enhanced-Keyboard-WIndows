@@ -27,5 +27,17 @@ Bonus: decimal point on NumPad (by default it offers comma on Ukrainian layout).
 Download [the distribution package](https://bit.ly/kbd-Ukr-Win-Extended),
 unpack and run `setup.exe`.
 
-It is recommended to pass the package through Windows Defender
-or 3p antivirus software (avoid Kaspersky products).
+> It is recommended to pass the package through Windows Defender
+> or 3p antivirus software (avoid Kaspersky products).
+
+Open Language preferences. Pick Ukrainian and remove simple Enhanced layout.
+
+You may need to restart your computer for the changes to take effect, 
+as Windows handles its in a weird way
+(or the build by MSKLC is not fully compatible with Windows 10+).
+
+![Setup step 1](./ukrenhx-setup-01.png)
+
+![Setup step 2](./ukrenhx-setup-02.png)
+
+![Setup step 3](./ukrenhx-setup-03.png)
